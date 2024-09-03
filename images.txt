@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #jenkins/jenkins
 #tomcat
-tomcat:9.0.93-jre8-temurin-noble
+#tomcat:9.0.93-jre8-temurin-noble
+tomcat:jre11-temurin-noble
