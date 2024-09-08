@@ -11,4 +11,5 @@
 #jenkins/jenkins:lts-jdk17
 #shuiche/mind-map:latest
 #jgraph/drawio
-docker.1panel.live/probezy/cpolar
+#docker.1panel.live/probezy/cpolar
+wisemapping/wisemapping:latest
