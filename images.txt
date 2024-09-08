@@ -9,4 +9,5 @@
 #tomcat:9.0.93-jre8-temurin-noble
 #tomcat:jre11-temurin-noble
 #jenkins/jenkins:lts-jdk17
-shuiche/mind-map:latest
+#shuiche/mind-map:latest
+jgraph/drawio
