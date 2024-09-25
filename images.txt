@@ -12,4 +12,5 @@
 #shuiche/mind-map:latest
 #jgraph/drawio
 #docker.1panel.live/probezy/cpolar
-wisemapping/wisemapping:latest
+#wisemapping/wisemapping:latest
+postgres
