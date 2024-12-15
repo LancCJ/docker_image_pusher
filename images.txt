@@ -14,5 +14,6 @@
 #docker.1panel.live/probezy/cpolar
 #wisemapping/wisemapping:latest
 #postgres
-easysoft/zentao
-btpanel/baota
+#easysoft/zentao
+#btpanel/baota
+wiznote/wizserver
