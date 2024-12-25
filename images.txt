@@ -16,4 +16,5 @@
 #postgres
 #easysoft/zentao
 #btpanel/baota
-wiznote/wizserver
+#wiznote/wizserver
+forresttse/dm8
