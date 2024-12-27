@@ -17,4 +17,5 @@
 #easysoft/zentao
 #btpanel/baota
 #wiznote/wizserver
-forresttse/dm8
+#forresttse/dm8
+centos:centos7
