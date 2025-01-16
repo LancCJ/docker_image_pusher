@@ -19,4 +19,5 @@
 #wiznote/wizserver
 #forresttse/dm8
 #centos
-minio/minio
+#minio/minio
+1panel/maxkb
