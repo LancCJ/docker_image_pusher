@@ -20,4 +20,5 @@
 #forresttse/dm8
 #centos
 #minio/minio
-1panel/maxkb
+#1panel/maxkb
+excalidraw/excalidraw
