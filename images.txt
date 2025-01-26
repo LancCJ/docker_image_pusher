@@ -21,4 +21,5 @@
 #centos
 #minio/minio
 #1panel/maxkb
-excalidraw/excalidraw
+#excalidraw/excalidraw
+jupyter/datascience-notebook
