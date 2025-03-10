@@ -22,4 +22,5 @@
 #minio/minio
 #1panel/maxkb
 #excalidraw/excalidraw
-jupyter/datascience-notebook
+#jupyter/datascience-notebook
+portainer/portainer-ce
