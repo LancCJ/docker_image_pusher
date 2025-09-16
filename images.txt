@@ -25,4 +25,5 @@
 #jupyter/datascience-notebook
 #portainer/portainer-ce
 #zlmediakit/zlmediakit:master
+sonatype/nexus3
 
