@@ -26,5 +26,6 @@
 #portainer/portainer-ce
 #zlmediakit/zlmediakit:master
 #sonatype/nexus3
-apache/rocketmq:5.3.2
+#apache/rocketmq:5.3.2
+rocketmqinc/rocketmq
 
