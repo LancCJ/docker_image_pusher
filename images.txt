@@ -28,5 +28,6 @@
 #sonatype/nexus3
 #apache/rocketmq:5.3.2
 #rocketmqinc/rocketmq
-bitnami/kafka:latest
+#bitnami/kafka:latest
+openjdk: 11-jdk-slim
 
